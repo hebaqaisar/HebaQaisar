@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me  
-- 📈 Transitioning from **UI/UX Design to Data Analytics**  
 - 💡 Strong foundation in **Python, Pandas, SQL, and Data Visualization**  
 - 📊 Proficient in **Power BI, Excel, and Tableau** for dashboard creation  
 - 🎯 Interested in **data storytelling, business intelligence & predictive analytics**  
