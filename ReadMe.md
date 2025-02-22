@@ -36,7 +36,6 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heba-qaisar11)  
-[![Behance](https://img.shields.io/badge/Behance-%231776F2.svg?style=flat&logo=behance&logoColor=white)](https://www.behance.net/hebaqaisar)  
-📧 **Email:** hebaqaisar18@gmail.com  
+[![Behance](https://img.shields.io/badge/Behance-%231776F2.svg?style=flat&logo=behance&logoColor=white)](https://www.behance.net/hebaqaisar)   
 
 🌟 **Currently improving my front-end development & data analytics skills!**  
