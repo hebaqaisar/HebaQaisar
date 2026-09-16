@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- **Data Analyst & Data Engineer** at an education organization spanning 13 campuses — I own the data stack end-to-end, from raw form submissions to executive dashboards
+- **Data Analyst & Data Engineer** at an education organization spanning 206 campuses — I own the data stack end-to-end, from raw form submissions to executive dashboards
 - Design and maintain **Python/Pandas ETL pipelines** that sync live data sources into a relational database on a daily schedule
 - Built and evolved a **MySQL schema** from scratch, solving deduplication, referential integrity, and data-quality issues along the way
 - Ship **Power BI dashboards with advanced DAX** — attendance rates, enrollment growth, and compliance tracking used directly by leadership
